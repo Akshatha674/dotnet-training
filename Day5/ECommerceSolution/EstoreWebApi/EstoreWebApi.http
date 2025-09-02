@@ -1,6 +1,6 @@
-@EstoreWebApi_HostAddress = http://localhost:5073
+@EStoreWebApi_HostAddress = http://localhost:5019
 
-GET {{EstoreWebApi_HostAddress}}/weatherforecast/
+GET {{EStoreWebApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
