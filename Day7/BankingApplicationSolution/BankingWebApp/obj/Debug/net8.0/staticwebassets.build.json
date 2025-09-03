@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hVQk/UtPiZk8DCmuBeneWtTj4ZURkYJqWA3OpBh0FjE=",
+  "Source": "BankingWebApp",
+  "BasePath": "_content/BankingWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
