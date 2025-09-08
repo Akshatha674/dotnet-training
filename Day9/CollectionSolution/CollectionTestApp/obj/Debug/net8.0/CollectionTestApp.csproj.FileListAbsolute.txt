@@ -1,0 +1,15 @@
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.AssemblyInfoInputs.cache
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.AssemblyInfo.cs
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.sourcelink.json
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.exe
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.deps.json
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.runtimeconfig.json
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.dll
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.pdb
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.dll
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\refint\CollectionTestApp.dll
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.pdb
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.genruntimeconfig.cache
+C:\DotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\ref\CollectionTestApp.dll
