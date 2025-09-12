@@ -1,0 +1,11 @@
+<h1>Customerlist</h1>
+<ul>
+@foreach ( var customer in Model)
+{
+    <li>
+        <h2>@customer.Name</h2>
+        <p>@customer.Email</p>
+        <p>Phone: @customer.Phone</p>
+        <a href="@Url.Action("Details", "Customers", new { id = customer.Id })">View Details</a>
+    </li>
+}
