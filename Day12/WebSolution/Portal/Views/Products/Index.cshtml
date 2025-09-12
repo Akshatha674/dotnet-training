@@ -1,0 +1,15 @@
+<h1>session list
+</h1>
+<ul>
+@foreach ( var product in Model)
+{
+    <li>
+        <h2>@product.Name</h2>
+        <p>@product.Description</p>
+        <p>Price: @product.Price.ToString("C")</p>
+        <img src="@product.ImageUrl" alt="@product.Name" />
+        <a href="@Url.Action("Details", "Products", new { id = product.Id })">View Details</a>
+    </li>
+}
+
+</ul>

@@ -1,0 +1,8 @@
+{
+  "$schema": "http://json.schemastore.org/spa.proxy.manifest",
+  "SpaProxyServer": "https://localhost:44402",
+  "LaunchCommand": "npm start",
+  "WorkingDirectory": "ClientApp",
+  "MaxTimeoutInSeconds": 120,
+  "KeepRunning": true
+}
