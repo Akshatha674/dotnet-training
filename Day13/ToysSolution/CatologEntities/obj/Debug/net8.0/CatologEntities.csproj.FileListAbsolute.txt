@@ -1,0 +1,12 @@
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\bin\Debug\net8.0\CatologEntities.deps.json
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\bin\Debug\net8.0\CatologEntities.dll
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\bin\Debug\net8.0\CatologEntities.pdb
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\CatologEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\CatologEntities.AssemblyInfoInputs.cache
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\CatologEntities.AssemblyInfo.cs
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\CatologEntities.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\CatologEntities.sourcelink.json
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\CatologEntities.dll
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\refint\CatologEntities.dll
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\CatologEntities.pdb
+C:\DotNetTraining\Day13\ToysSolution\CatologEntities\obj\Debug\net8.0\ref\CatologEntities.dll

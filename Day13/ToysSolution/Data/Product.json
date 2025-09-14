@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "Name": "Toy Car",
+        "Description": "A small toy car for kids.",
+        "Price": 9.99,
+        "Stock": 100,
+        "ImageUrl": "/images/car.jpg"
+    },
+    {
+        "Id": 2,
+        "Name": "Doll",
+        "Description": "A beautiful doll with accessories.",
+        "Price": 14.99,
+        "Stock": 50,
+        "ImageUrl": "/images/doll.jpg"
+    },
+    {
+        "Id": 3,
+        "Name": "Plane",
+        "Description": "Colorful Plane for creative play.",
+        "Price": 19.99,
+        "Stock": 200,
+        "ImageUrl": "/images/plane.jpg"
+    },
+     {
+        "Id": 4,
+        "Name": "Smiley",
+        "Description": "two happy smiley for kids.",
+        "Price": 50,
+        "Stock": 100,
+        "ImageUrl": "/images/Smiley.jpg"
+    },
+     {
+        "Id": 5,
+        "Name": "toydoll",
+        "Description": "2 dolls facing each other.",
+        "Price": 100,
+        "Stock": 50,
+        "ImageUrl": "/images/toydoll.jpg"
+    }
+]

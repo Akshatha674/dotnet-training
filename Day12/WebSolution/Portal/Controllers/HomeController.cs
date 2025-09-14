@@ -26,7 +26,6 @@ public class HomeController : Controller
 
     public IActionResult About()
     {
-        string aboutInfo = "This is a sample ASP.NET Core MVC application.";
         return View();
     }
 

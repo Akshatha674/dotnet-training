@@ -29,3 +29,4 @@ C:\DotNetTraining\Day12\WebSolution\Portal\obj\Debug\net8.0\refint\Portal.dll
 C:\DotNetTraining\Day12\WebSolution\Portal\obj\Debug\net8.0\Portal.pdb
 C:\DotNetTraining\Day12\WebSolution\Portal\obj\Debug\net8.0\Portal.genruntimeconfig.cache
 C:\DotNetTraining\Day12\WebSolution\Portal\obj\Debug\net8.0\ref\Portal.dll
+C:\DotNetTraining\Day12\WebSolution\Portal\bin\Debug\net8.0\customersList.json

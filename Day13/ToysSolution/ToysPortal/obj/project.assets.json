@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CatologEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CatologEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatologEntities.dll": {}
+        }
+      },
+      "CatologRepositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CatologEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CatologRepositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatologRepositories.dll": {}
+        }
+      },
+      "CatologServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CatologEntities": "1.0.0",
+          "CatologRepositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CatologServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatologServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatologEntities/1.0.0": {
+      "type": "project",
+      "path": "../CatologEntities/CatologEntities.csproj",
+      "msbuildProject": "../CatologEntities/CatologEntities.csproj"
+    },
+    "CatologRepositories/1.0.0": {
+      "type": "project",
+      "path": "../CatologRepositories/CatologRepositories.csproj",
+      "msbuildProject": "../CatologRepositories/CatologRepositories.csproj"
+    },
+    "CatologServices/1.0.0": {
+      "type": "project",
+      "path": "../CatologServices/CatologServices.csproj",
+      "msbuildProject": "../CatologServices/CatologServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CatologEntities >= 1.0.0",
+      "CatologRepositories >= 1.0.0",
+      "CatologServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\akshatha.shetty\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\DotNetTraining\\Day13\\ToysSolution\\ToysPortal\\ToysPortal.csproj",
+      "projectName": "ToysPortal",
+      "projectPath": "C:\\DotNetTraining\\Day13\\ToysSolution\\ToysPortal\\ToysPortal.csproj",
+      "packagesPath": "C:\\Users\\akshatha.shetty\\.nuget\\packages\\",
+      "outputPath": "C:\\DotNetTraining\\Day13\\ToysSolution\\ToysPortal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\akshatha.shetty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\DotNetTraining\\Day13\\ToysSolution\\CatologEntities\\CatologEntities.csproj": {
+              "projectPath": "C:\\DotNetTraining\\Day13\\ToysSolution\\CatologEntities\\CatologEntities.csproj"
+            },
+            "C:\\DotNetTraining\\Day13\\ToysSolution\\CatologRepositories\\CatologRepositories.csproj": {
+              "projectPath": "C:\\DotNetTraining\\Day13\\ToysSolution\\CatologRepositories\\CatologRepositories.csproj"
+            },
+            "C:\\DotNetTraining\\Day13\\ToysSolution\\CatologServices\\CatologServices.csproj": {
+              "projectPath": "C:\\DotNetTraining\\Day13\\ToysSolution\\CatologServices\\CatologServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

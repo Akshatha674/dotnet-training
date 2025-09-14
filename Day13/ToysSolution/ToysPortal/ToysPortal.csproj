@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CatologServices\CatologServices.csproj" />
+    <ProjectReference Include="..\CatologEntities\CatologEntities.csproj" />
+    <ProjectReference Include="..\CatologRepositories\CatologRepositories.csproj" />
+      <Content Include="..\Data\Product.json">
+        <Link>Data\Product.json</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    <TargetPath>Data\Product.json</TargetPath>
+  </Content>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ToysPortal/1.0.0": {
+        "dependencies": {
+          "CatologEntities": "1.0.0",
+          "CatologRepositories": "1.0.0",
+          "CatologServices": "1.0.0"
+        },
+        "runtime": {
+          "ToysPortal.dll": {}
+        }
+      },
+      "CatologEntities/1.0.0": {
+        "runtime": {
+          "CatologEntities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CatologRepositories/1.0.0": {
+        "dependencies": {
+          "CatologEntities": "1.0.0"
+        },
+        "runtime": {
+          "CatologRepositories.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CatologServices/1.0.0": {
+        "dependencies": {
+          "CatologEntities": "1.0.0",
+          "CatologRepositories": "1.0.0"
+        },
+        "runtime": {
+          "CatologServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToysPortal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatologEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatologRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatologServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

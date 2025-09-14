@@ -1,0 +1,17 @@
+@model Product
+
+<h1>Product Details</h1>
+@if (Model == null)
+{
+    <div class="alert alert-danger">Product not found.</div>
+}
+else
+{
+    <div>
+        <h2>@Model.Name</h2>
+        <p>Id: @Model.Id</p>
+        <p>@Model.Description</p>
+        <p>Price: @Model.Price.ToString("C")</p>
+        <img src="@Model.ImageUrl" alt="@Model.Name" style="max-width:300px;" />
+    </div>
+}
