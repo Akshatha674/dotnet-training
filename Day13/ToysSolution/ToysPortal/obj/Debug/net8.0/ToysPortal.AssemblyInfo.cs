@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToysPortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c891465399bca42210dbcb71287fbfdbc754ae2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d6fc74f63383da6d8263614bfe653ccbdc7acd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToysPortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToysPortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
