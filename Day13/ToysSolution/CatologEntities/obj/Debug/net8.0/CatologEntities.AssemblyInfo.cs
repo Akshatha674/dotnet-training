@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatologEntities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0d6fc74f63383da6d8263614bfe653ccbdc7acd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f269f2bcce784915afa8b40c8727a16b28e64f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatologEntities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatologEntities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

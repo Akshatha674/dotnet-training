@@ -38,3 +38,4 @@ C:\DotNetTraining\Day13\ToysSolution\ToysPortal\obj\Debug\net8.0\refint\ToysPort
 C:\DotNetTraining\Day13\ToysSolution\ToysPortal\obj\Debug\net8.0\ToysPortal.pdb
 C:\DotNetTraining\Day13\ToysSolution\ToysPortal\obj\Debug\net8.0\ToysPortal.genruntimeconfig.cache
 C:\DotNetTraining\Day13\ToysSolution\ToysPortal\obj\Debug\net8.0\ref\ToysPortal.dll
+C:\DotNetTraining\Day13\ToysSolution\ToysPortal\bin\Debug\net8.0\Data\customers.json

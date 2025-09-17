@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToysWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c891465399bca42210dbcb71287fbfdbc754ae2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f269f2bcce784915afa8b40c8727a16b28e64f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToysWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToysWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,6 +10,12 @@
     <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     <TargetPath>Data\Product.json</TargetPath>
   </Content>
+   <Content Include="..\Data\customers.json">
+      <Link>Data\customers.json</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <TargetPath>Data\customers.json</TargetPath>
+    </Content>
   </ItemGroup>
 
   <PropertyGroup>
